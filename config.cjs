@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "94751629685",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
@@ -23,5 +23,6 @@ module.exports = {
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
-  "EMOJI": "🏷"
+  "EMOJI": "🏷", 
+  "SESSION_ID":"ANJU-MD=OJcVkCbZ#5C_9G7zxqepWWPz9BSjejVm1-YhD0rVaAC05SI0sVVA"
 };
