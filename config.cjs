@@ -24,5 +24,5 @@ module.exports = {
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
   "EMOJI": "🏷", 
-  "SESSION_ID":"ANJU-MD=rMtxGTJR#9QJ2wayLlaW_vrmhchWFYc_UliAi3HWz5272LfmjWck"
+  "SESSION_ID":"ANJU-MD=2UMGFDDT#XdAYxCB8_IxfQ1HdEnqXJa98kUbK4w1Ph0Iws_Sw3gg"
 };
